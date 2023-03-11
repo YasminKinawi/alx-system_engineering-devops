@@ -1,4 +1,4 @@
-[## 0x00. Shell, basics](http://linuxcommand.org/lc3_learning_the_shell.php)
+# [0x00. Shell, basics](http://linuxcommand.org/lc3_learning_the_shell.php)
 
 ### Learning Objectives
 * What does RTFM mean?
